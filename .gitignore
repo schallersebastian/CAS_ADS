@@ -1,2 +1,3 @@
 # excluding notepoock checkpoints from uploading
-*checkpoint.ipynb
+
+.ipynb_checkpoints/
