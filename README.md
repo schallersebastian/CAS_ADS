@@ -1,13 +1,34 @@
-# CAS-Applied-Data-Science
+# CAS Applied Data Science Material
+
+Personal repository of schallersebastian for the CAS Applied Data Science program 2023/24 of the University of Bern.
+
+The structure is based on the lead instructor's suggestions but was slightly modified as presented below: 
+00_general (General introduction to Python and mathematics for data science)
+01_Module_1 (Data Acquisition and Management)
+02_Module_2 (Statistical Inference for Data Science)
+03_Module_3 (Data Analysis and Machine Learning)
+04_Module_4 (Ethics and Best Practices)
+05_Module_5 (Consolidations)
+06_Module_6 (Deep Learning)
+07_final_project (Final project)
+
+All module folders contain a subfolder with the provided lecture material (presentations, provided readings, and the original and modified Jupiter notebooks) and, if required, a second subfolder containing all material for the module's hand-in project/report. Folder 07 is the prelocated location for the upcoming final project, and folder 00 includes the course material of two introduction/refreshing courses held before the actual lectures.
+
+
+
+Sebastian Schaller 2023-11-28
+
+
+
+## Base (original) readme
+
+CAS-Applied-Data-Science
+
+Repository for course material for the CAS Applied Data Science at the University of Bern
+
+The CAS homepage is https://www.unibe.ch/continuing_education_programs/cas_in_applied_data_science/index_eng.html. 
+Regulations and the study plan are linked there. Registration information and schedules are also maintained there. 
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sigvehaug/CAS-Applied-Data-Science)
 
-Module 1 material. These are the notebooks and other files needed for the exercises. Slides used as introductions are on google:
-
-- D1 https://docs.google.com/presentation/d/1SKnwdE7AXwT-Kq8mUby5aLFGCj8D4kLDLYQ7I8icADA/edit?usp=sharing
-- D2 https://docs.google.com/presentation/d/1HhRIIVq46DyVNm68WeTqr_vZvOgSMWBZa2XDwWNH8H4/edit
-- D3 https://docs.google.com/presentation/d/11A6DzwqBM-e6PXvSCI0urOb2Hl4-fPXrGmSKAtz2mas/edit?usp=sharing
-
-Exercises with geopandas and mysql didn't work for several people due to dependcy conflicts etc. Installing and resolving conflicts via conda actually took a couple of hours. 
-
-S. Haug, 2021-08-21
+S. Haug, 2021-08-23

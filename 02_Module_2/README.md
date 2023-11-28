@@ -1,20 +1,15 @@
-# Introduction to Machine Learning and Data Analysis
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/neworldemancer/DSF5/master)
+# Module 2: Statistical Inference for Data Science
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/neworldemancer/DSF5)
+Focus on typical statistical concepts for describing and analyzing data:
+- importance and where and how to apply statistical inference for data science
+- understanding and application of the theoretical concepts.
+- understanding, interpretation, and how to draw scientific conclusions from statistical analysis results.
+
+01_course_material (original and modified course material, e.g., presentations, notes, Jupiter notebooks, etc.)
+02_presentation (all material concerning the hand-in of module 2)
+
+Hand-in-project/presentation: Statistical analysis of a data set containing geophysical core logs from an unconsolidated Quaternary drill core. (Groupe project with Avisek Regmi) 
 
 
-Introduction to Machine Learning and Data Analysis
+Sebastian Schaller, 2023-11-28
 
-Learning outcomes:
-
-
-* Overview of machine learning pipelines and their implementation with scikit-learn
-* Regression and Classification: linear models and logistic regression
-* Decision trees & random forest models
-* Clustering with K-means and Gaussian mixtures
-* Principal component analysis (PCA) and non-linear embeddings (t-SNE and UMAP)
-* Artificial Neural networks as general fitters, fully connected nets used to classify the fashion-MNIST dataset
-* Scikit-learn and clustering maps, Q&A
-
-Our wepgabe is [scits.unibe.ch](http://scits.unibe.ch)

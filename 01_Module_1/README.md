@@ -1,20 +1,34 @@
-# Introduction to Machine Learning and Data Analysis
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/neworldemancer/DSF5/master)
+# Module 1: Data Acquisition and Management 
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/neworldemancer/DSF5)
+Understand data sources and types, design dataflows and models, and manage and visualize data algorithmically.
+
+Topics: 
+
+- Data sources, types, sizes, storage systems, common infrastructures and acquisition techniques
+- Analyse data flows
+- Develop conceptual, logical, and physical data models
+- Databases and MySQL
+- Design data management plans
+- Collect, manage, and visualize data
+
+01_course_material (original and modified course material, e.g., presentations, notes, Jupiter notebooks, etc.)
+02_report (all material concerning the hand-in of module 1)
+
+Hand-in-project: A conceptual design report for an aimed final project. "Core and wireline log based lithoclasification of unconsolidated sediments from drill cores and boreholes"
+
+Sebastian SChaller, 2023-11-28
 
 
-Introduction to Machine Learning and Data Analysis
+## CAS-Applied-Data-Science
 
-Learning outcomes:
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sigvehaug/CAS-Applied-Data-Science)
 
+Module 1 material. These are the notebooks and other files needed for the exercises. Slides used as introductions are on google:
 
-* Overview of machine learning pipelines and their implementation with scikit-learn
-* Regression and Classification: linear models and logistic regression
-* Decision trees & random forest models
-* Clustering with K-means and Gaussian mixtures
-* Principal component analysis (PCA) and non-linear embeddings (t-SNE and UMAP)
-* Artificial Neural networks as general fitters, fully connected nets used to classify the fashion-MNIST dataset
-* Scikit-learn and clustering maps, Q&A
+- D1 https://docs.google.com/presentation/d/1SKnwdE7AXwT-Kq8mUby5aLFGCj8D4kLDLYQ7I8icADA/edit?usp=sharing
+- D2 https://docs.google.com/presentation/d/1HhRIIVq46DyVNm68WeTqr_vZvOgSMWBZa2XDwWNH8H4/edit
+- D3 https://docs.google.com/presentation/d/11A6DzwqBM-e6PXvSCI0urOb2Hl4-fPXrGmSKAtz2mas/edit?usp=sharing
 
-Our wepgabe is [scits.unibe.ch](http://scits.unibe.ch)
+Exercises with geopandas and mysql didn't work for several people due to dependency conflicts, etc. Installing and resolving conflicts via conda actually took a couple of hours. 
+
+S. Haug, 2021-08-21

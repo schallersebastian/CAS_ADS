@@ -1,20 +1,12 @@
-# Introduction to Machine Learning and Data Analysis
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/neworldemancer/DSF5/master)
+# Module 5: Consolidations
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/neworldemancer/DSF5)
+Focuses on comprises peer knowledge exchange groups, peer consultations, and selected readings and reflecting on AI and ML in general.
+
+01_course_material (original and modified course material, e.g., presentations, notes, Jupiter notebooks, etc.)
+02_report (all material concerning the hand-in of module 5)
+
+Hand-in-project: A peer consulting report about the Module 3 project of another participant of the CAS.
+
+Sebastian Schaller, 2023-11-28
 
 
-Introduction to Machine Learning and Data Analysis
-
-Learning outcomes:
-
-
-* Overview of machine learning pipelines and their implementation with scikit-learn
-* Regression and Classification: linear models and logistic regression
-* Decision trees & random forest models
-* Clustering with K-means and Gaussian mixtures
-* Principal component analysis (PCA) and non-linear embeddings (t-SNE and UMAP)
-* Artificial Neural networks as general fitters, fully connected nets used to classify the fashion-MNIST dataset
-* Scikit-learn and clustering maps, Q&A
-
-Our wepgabe is [scits.unibe.ch](http://scits.unibe.ch)
