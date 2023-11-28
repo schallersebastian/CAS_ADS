@@ -2,8 +2,9 @@
 
 Focuses on a basic introduction to performing typical machine learning tasks with Python (see below for the original readme file from module 3).
 
-01_course_material (original and modified course material, e.g., presentations, notes, Jupiter notebooks, etc.)
-02_project (all material concerning the hand-in of module 3)
+Subfolder:
+- 01_course_material (original and modified course material, e.g., presentations, notes, Jupiter notebooks, etc.)
+- 02_project (all material concerning the hand-in of module 3)
 
 Hand-in-project: Classification of unconsolidated sediments from drill cores and borehole log data. 
 (Group project with Patricio Becera) 

@@ -11,8 +11,9 @@ Topics:
 - Design data management plans
 - Collect, manage, and visualize data
 
-01_course_material (original and modified course material, e.g., presentations, notes, Jupiter notebooks, etc.)
-02_report (all material concerning the hand-in of module 1)
+Subfolder:
+- 01_course_material (original and modified course material, e.g., presentations, notes, Jupiter notebooks, etc.)
+- 02_report (all material concerning the hand-in of module 1)
 
 Hand-in-project: A conceptual design report for an aimed final project. "Core and wireline log based lithoclasification of unconsolidated sediments from drill cores and boreholes"
 
