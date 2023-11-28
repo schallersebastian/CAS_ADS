@@ -1,7 +1,5 @@
-<<<<<<< HEAD
+
 # excluding jupiter notebook checkpoints from uploading
-=======
-# excluding noteboock checkpoints from uploading
->>>>>>> fa509c27206fcbf8d73381c31c16ee1800f2bcc6
+
 
 .ipynb_checkpoints/
